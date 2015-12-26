@@ -1,0 +1,16 @@
+{
+	"name": "CanvGauge",
+	"description": "Pure HTML5/JavaScript gauge implementation now avaiable for Qlik Sense.",
+	"icon": "gauge-chart",
+	"type": "visualization",
+	"version": "1.0.0",
+	"preview": "preview.png",
+	"author": "CodingBSilva",
+	"homepage": "https://github.com/CodingBSilva/CanvGauge",
+	"keywords": "qlik-sense, visualization",
+	"license": "MIT",
+	"repository": "https://github.com/CodingBSilva/CanvGauge",
+	"dependencies": {
+		"qlik-sense": ">=1.0.x"
+	}
+}

@@ -1,22 +1,27 @@
 # CanvGauge (Building Documentation, coming soon)
 Pure HTML5/JavaScript gauge implementation now for Qlik Sense.
 
+<h2>Description</h2>
+This visualization extension brings Mikhus implementation of gauge using pure JavaScript and HTML5 canvas to be integrated with Qlik Sense. 
+Original souce: https://github.com/Mikhus/canv-gauge/wiki
+<br/>
+<br/>
+<h2>Screenshots</h2>
 <img src="https://raw.githubusercontent.com/CodingBSilva/CanvGauge/master/CanvGauge/preview.png" height="200" />
 <br/>
 <br/>
-<b>Features</b>
-<br/>
-<br/>
-<b>Usage</b>
-<br/>
-Simply drag and drop the CanvGauge extension into a sheet ....
-<br/>
-<br/>
-<b>Server</b>
+<h2>Installation</h2>
+<ol>
+<li>Download the content.</li>
+<li>Deploy the extension to your Qlik Sense environment.</li>
 
-Download the .zip file and remove README.md from the archive
-Import the .zip file via the QMC, under Extensions
-Desktop
+<li><ol>
 
-Download the .zip-archive, unpack and rename to CanvGauge
-Place the directory CanvGauge in you Qlik Sense Extensions directory, usually found at "C:\Users\your.username\Documents\Qlik\Sense\Extensions\"
+  <li>Qlik Sense Desktop: Copy the entire contents of the .zip file to 
+  "C:\Users\<UserName>\Documents\Qlik\Sense\Extensions\CanvGauge"</li>
+
+  <li>Qlik Sense Server: Follow the instructions for "Deploying visualizations in Qlik Sense"
+  
+  </ol>
+</li>
+</ol>

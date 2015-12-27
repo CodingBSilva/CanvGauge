@@ -1,6 +1,6 @@
 # CanvGauge (Building Documentation, coming soon)
 Pure HTML5/JavaScript gauge implementation now for Qlik Sense.
-<img src="https://raw.githubusercontent.com/CodingBSilva/CanvGauge/master/CanvGauge/preview.png"/>
+<img src="https://raw.githubusercontent.com/CodingBSilva/CanvGauge/master/CanvGauge/preview.png" height="100"/>
 
 
 <b>Features</b>

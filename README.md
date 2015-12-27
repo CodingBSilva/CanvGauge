@@ -64,14 +64,16 @@ If the Major ticks is empty the gauge calculate them automatically<br/><br/>
 <img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeStrokeSettings.PNG?raw=true"/><br/><br/>
 
 <h5>Values Settings</h5>
-<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeValuesSettings.PNG?raw=true"/><br/>
+<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeValuesSettings.PNG?raw=true"/><br/><br/>
 
 <h5>Titles & Units Settings</h5>
-<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeTitlesSettings.PNG?raw=true"/><br/>
+<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeTitlesSettings.PNG?raw=true"/><br/><br/>
 
 <h5>Needle Settings</h5>
-<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeNeedleSettings.PNG?raw=true"/><br/>
+<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeNeedleSettings.PNG?raw=true"/><br/><br/>
 
 <h5>Highlights Settings</h5>
-<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeHighlightSettings.PNG?raw=true"/><br/>
+The Highlights must be defined as the follow:<br/>
+<code>"from" : < tick number >, "to" : < tick number >, "color" : "< color >"</code><br/><br/>
+<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeHighlightSettings.PNG?raw=true"/><br/><br/>
 

@@ -81,3 +81,7 @@ The Highlights must be defined as the follow:<br/>
 <code>"from" : < tick number >, "to" : < tick number >, "color" : "< color >"</code><br/><br/>
 <img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeHighlightSettings.PNG?raw=true"/><br/><br/>
 
+<h2>License</h2>
+Copyright © 2015 Bruno Silva
+
+Released under the MIT license.

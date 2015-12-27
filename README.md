@@ -25,3 +25,8 @@ Original souce: https://github.com/Mikhus/canv-gauge/wiki
   </ol>
 </li>
 </ol>
+<br/>
+<br/>
+<h2>Settings</h2>
+
+

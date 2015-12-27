@@ -7,7 +7,10 @@ Original souce: https://github.com/Mikhus/canv-gauge/wiki
 <br/>
 <br/>
 <h2>Screenshots</h2>
-<img src="https://raw.githubusercontent.com/CodingBSilva/CanvGauge/master/CanvGauge/preview.png" height="200" />
+<img src="https://raw.githubusercontent.com/CodingBSilva/CanvGauge/master/CanvGauge/preview.png" height="200" /><br/>
+<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeImg2.PNG?raw=true" height="150" />
+<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeImg3.PNG?raw=true" height="150" />
+<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeImg1.PNG?raw=true" height="150" />
 <br/>
 <br/>
 <h2>Installation</h2>

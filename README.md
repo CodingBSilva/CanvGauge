@@ -39,6 +39,7 @@ Open a Qlik Sense app sheet, start Edit mode, then drag and drop CanvGauge from 
 <img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeSettings.PNG?raw=true"/><br/>
 
 <h5>About Color Settings</h5>
+The colors in the settings can be specified by the following methods:
 <ol>
 <li><b>Hexadecimal colors</b><br/>
 "Hexadecimal color values are supported in all major browsers.<br/>
@@ -46,23 +47,32 @@ Open a Qlik Sense app sheet, start Edit mode, then drag and drop CanvGauge from 
 A hexadecimal color is specified with: #RRGGBB, where the RR (red), GG (green) and BB (blue) hexadecimal integers specify the components of the color. All values must be between 00 and FF."<br/>
 <b>Example:</b><strong><code>#F0F0F0</code></strong><br/>
 <b>List of Colors:</b>
-<a href="http://www.w3schools.com/html/html_colors.asp">http://www.w3schools.com/html/html_colors.asp</a>
+<a href="http://www.w3schools.com/html/html_colors.asp">http://www.w3schools.com/html/html_colors.asp</a><br/>
 </li>
 
 <li><b>Predefined/Cross-browser color names</b><br/>
-"140 color names are predefined in the HTML and CSS color specification."
+"140 color names are predefined in the HTML and CSS color specification."<br/><br/>
 <b>List of Colors:</b>
-<a href="http://www.w3schools.com/cssref/css_colornames.asp">http://www.w3schools.com/cssref/css_colornames.asp</a>
+<a href="http://www.w3schools.com/cssref/css_colornames.asp">http://www.w3schools.com/cssref/css_colornames.asp</a><br/>
 <b>List of Colors by Group:</b>
-<a href="http://www.w3schools.com/tags/ref_colorgroups.asp">http://www.w3schools.com/tags/ref_colorgroups.asp</a>
+<a href="http://www.w3schools.com/tags/ref_colorgroups.asp">http://www.w3schools.com/tags/ref_colorgroups.asp</a><br/><br/>
 </li>
 
-<li><b>RGBa Colors</b>
-RGBa is a way to declare a color in CSS that includes alpha transparency support
-<strong><code>color settings</code></strong>
+<li><b>RGB Colors</b><br/>
+"RGB color values are supported in all major browsers.<br/>
+An RGB color value is specified with: rgb(red, green, blue). Each parameter (red, green, and blue) defines the intensity of the color and can be an integer between 0 and 255 or a percentage value (from 0% to 100%).<br/>
+For example, the rgb(0,0,255) value is rendered as blue, because the blue parameter is set to its highest value (255) and the others are set to 0.<br/>
+Also, the following values define equal color: rgb(0,0,255) and rgb(0%,0%,100%)."<br/>
+<b>List of Colors:</b>
+<a href="http://www.w3schools.com/html/html_colors.asp">http://www.w3schools.com/html/html_colors.asp</a><br/><br/>
 </li>
-</ol><br/>
-<h8><b>source:</b> http://www.w3schools.com/cssref/css_colors_legal.asp</h8>
+<li><b>RGBa Colors</b><br/>
+"RGBA color values are supported in IE9+, Firefox 3+, Chrome, Safari, and in Opera 10+.<br/>
+RGBA color values are an extension of RGB color values with an alpha channel - which specifies the opacity of the object.<br/>
+An RGBA color value is specified with: rgba(red, green, blue, alpha). The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (fully opaque)."<br/>
+</li>
+</ol>
+<h8><b>source:</b> <a href="http://www.w3schools.com/cssref/css_colors_legal.asp">http://www.w3schools.com/cssref/css_colors_legal.asp</a></h8>
 
 <h5>Layout Settings</h5>
 <img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeLayoutSettings.PNG?raw=true"/><br/>

@@ -48,15 +48,19 @@ The colors in the settings can be specified by the following methods:
 <li>HSLA colors</li>
 <li>Predefined/Cross-browser color names</li>
 </ol>
-<b>More Info About the methods follow the link:</b> <br/>
+<b>More info about the methods follow the link:</b> <br/>
 <a href="http://www.w3schools.com/cssref/css_colors_legal.asp">http://www.w3schools.com/cssref/css_colors_legal.asp</a>
 
 <h5>Layout Settings</h5>
+In this section we can define the background color of the Gauge and if have a glow or not.<br/>
 <img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeLayoutSettings.PNG?raw=true"/><br/>
 
 <h5>Ticks Settings</h5>
+In this section we can define the color of the Major and Minor ticks, stroke line or not, the number of minor ticks visible
+and also define the Major ticks.<br/>
+If the Major ticks is empty the gauge calculate them automatically<br/>
 <img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeTicksSettings.PNG?raw=true"/><br/>
-<b>Stroke Ticks or not?</b><br/>
+<b>Below one example with Stroke Ticks (the left one) and other Without (the right one)</b><br/>
 <img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeStrokeSettings.PNG?raw=true"/><br/>
 
 <h5>Values Settings</h5>

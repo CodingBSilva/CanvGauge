@@ -53,15 +53,15 @@ The colors in the settings can be specified by the following methods:
 
 <h5>Layout Settings</h5>
 In this section we can define the background color of the Gauge and if have a glow or not.<br/>
-<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeLayoutSettings.PNG?raw=true"/><br/>
+<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeLayoutSettings.PNG?raw=true"/><br/><br/>
 
 <h5>Ticks Settings</h5>
 In this section we can define the color of the Major and Minor ticks, stroke line or not, the number of minor ticks visible
 and also define the Major ticks.<br/>
-If the Major ticks is empty the gauge calculate them automatically<br/>
+If the Major ticks is empty the gauge calculate them automatically<br/><br/>
 <img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeTicksSettings.PNG?raw=true"/><br/>
 <b>Below one example with Stroke Ticks (the left one) and other Without (the right one)</b><br/>
-<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeStrokeSettings.PNG?raw=true"/><br/>
+<img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeStrokeSettings.PNG?raw=true"/><br/><br/>
 
 <h5>Values Settings</h5>
 <img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeValuesSettings.PNG?raw=true"/><br/>

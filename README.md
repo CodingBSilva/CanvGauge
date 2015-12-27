@@ -1,4 +1,4 @@
-# CanvGauge
+# CanvGauge (Building Documentation, coming soon)
 Pure HTML5/JavaScript gauge implementation now for Qlik Sense.
 
 

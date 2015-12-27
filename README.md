@@ -1,4 +1,4 @@
-# CanvGauge (Building Documentation, coming soon)
+# CanvGauge
 Pure HTML5/JavaScript gauge implementation now for Qlik Sense.
 
 <h2>Description</h2>
@@ -64,9 +64,11 @@ If the Major ticks is empty the gauge calculate them automatically<br/><br/>
 <img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeStrokeSettings.PNG?raw=true"/><br/><br/>
 
 <h4>Values Settings</h4>
+In this section we can define values color and format (number of decimal places and leading zeros), also the minimum and the maximum value presented by the gauge.<br/><br/>
 <img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeValuesSettings.PNG?raw=true"/><br/><br/>
 
 <h4>Titles & Units Settings</h4>
+In this section we can define the title (notice that this is the inside gauge title) and it's color and a unit label.<br/><br/>
 <img src="https://github.com/CodingBSilva/CanvGauge/blob/master/CanvGaugeTitlesSettings.PNG?raw=true"/><br/><br/>
 
 <h4>Needle Settings</h4>

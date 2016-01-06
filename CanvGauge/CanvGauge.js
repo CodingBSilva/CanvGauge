@@ -225,7 +225,7 @@ define(["jquery", "./properties", "./initialproperties", "./gauge.min"], functio
     // ---------------------------------------------------------------------------------------
 
     return {
-        
+
         // Properties and Initial Properties
         definition: props,
         initialProperties: initProps,

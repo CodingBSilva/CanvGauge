@@ -19,12 +19,9 @@ Original souce: https://github.com/Mikhus/canv-gauge/wiki
 <li>Deploy the extension to your Qlik Sense environment.</li>
 
 <li><ol>
-
   <li>Qlik Sense Desktop: Copy the entire contents of the .zip file to 
   "C:\Users\<UserName>\Documents\Qlik\Sense\Extensions\CanvGauge"</li>
-
   <li>Qlik Sense Server: Follow the instructions for "Deploying visualizations in Qlik Sense"
-  
   </ol>
 </li>
 </ol>
